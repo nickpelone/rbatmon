@@ -1,6 +1,6 @@
 # rbatmon
 
-A simple tool for reading the percent remaining from UPower composite DisplayDevices.
+A simple tool for reading the percent remaining from UPower composite DisplayDevices. Requires `ruby-dbus`.
 
 Example:
 
